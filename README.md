@@ -1,2 +1,0 @@
-# raspi400
-electrum/lightning
